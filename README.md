@@ -1,3 +1,8 @@
+Project Description:
+
+This application was created using React.js with the utilization of the node module Express to create a simple backend. The web application asks for the title of a book and accesses the backend server to obtain the author of the entered title.  It utilizes Google Places API to access the author of the book.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
